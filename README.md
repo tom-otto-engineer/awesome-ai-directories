@@ -44,6 +44,7 @@
 
 * [Power Up Tools](https://poweruptools.com) – AI product directory for discovery and launch visibility. Freemium listing options.
 * [AI Tool Hunt](https://aitoolhunt.com) – AI product directory for discovery and launch visibility. Free to submit.
+* [FalcoScan](https://falcoscan.com/submit) – AI market directory ranking 7,000+ AI products across 29 markets. Free to submit; makers get their private rank by email.
 * [AI Library](https://ailibrary.ai) – AI product directory for discovery and launch visibility. Free to submit.
 * [AIStage](https://aistage.net) – AI product directory for discovery and launch visibility. Free to submit.
 * [All Things AI](https://allthingsai.com) – AI product directory for discovery and launch visibility. Free to submit.
