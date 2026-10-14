@@ -66,6 +66,7 @@
 * [Tool Find Dir](https://toolfinddir.com) – AI product directory for discovery and launch visibility. Freemium listing options.
 * [The Key Tools](https://thekeytools.com) – AI product directory for discovery and launch visibility. Freemium listing options.
 * [DoMore.ai](https://domore.ai) – AI product directory for discovery and launch visibility. Freemium listing options.
+* [51发现导航](https://51cgw9.cc) – Chinese-language AI tools directory with China-access and free-tier labels. Free to submit.
 
 ---
 
