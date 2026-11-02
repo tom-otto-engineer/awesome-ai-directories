@@ -50,6 +50,7 @@
 * [Future AI Tools](https://futureaitools.com) – AI product directory for discovery and launch visibility. Free to submit.
 * [AI Tools Hub](https://aitoolshub.net) – AI product directory for discovery and launch visibility. Free to submit.
 * [AI Valley](https://aivalley.ai) – AI product directory for discovery and launch visibility. Free to submit.
+* [MeetNewAI](https://meetnewai.com) – Bilingual directory of AI tools, browser AI games, and MCP servers organized by job-to-be-done, with short editorial notes. Free to browse and submit.
 * [AI Hunter](https://aihunter.io) – AI product directory for discovery and launch visibility. Free to submit.
 * [AI Depot](https://aidepot.co) – AI product directory for discovery and launch visibility. Free to submit.
 * [AI Tool Guru](https://aitoolguru.com) – AI product directory for discovery and launch visibility. Free to submit.
